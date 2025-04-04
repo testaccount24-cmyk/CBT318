@@ -1,0 +1,8 @@
+2025-04-04 07:49:26.955127 - Received CBT.V508.FILE318.PDS from FILE318.XMI 
+2025-04-04 07:49:26.955875 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE318.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:49:26.956038 - Found $ADDR.txt (text/plain) in CBT.V508.FILE318.PDS, moved to PDS/$ADDR
+2025-04-04 07:49:26.956195 - Found $DOC.txt (text/plain) in CBT.V508.FILE318.PDS, moved to PDS/$DOC
+2025-04-04 07:49:26.956320 - Found @FILE318.txt (text/plain) in CBT.V508.FILE318.PDS, moved to PDS/@FILE318
+2025-04-04 07:49:26.956457 - Found ASM.txt (text/plain) in CBT.V508.FILE318.PDS, moved to PDS/ASM
+2025-04-04 07:49:26.956603 - Found REX.txt (text/plain) in CBT.V508.FILE318.PDS, moved to PDS/REX
+2025-04-04 07:49:26.956723 - Found REXGERMN.txt (text/plain) in CBT.V508.FILE318.PDS, moved to PDS/REXGERMN
